@@ -74,4 +74,8 @@ html {
     border: #fff;
   }
 
+  .inset-img {
+    border-color: #fff;
+  }
+
 }
