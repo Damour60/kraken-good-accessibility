@@ -70,12 +70,12 @@ html {
     border: #fff;
   }
 
-  .chapter-details {
-    border: #fff;
-  }
-
   .inset-img {
     border-color: #000;
+  }
+
+  .chapter-details {
+    border: #fff;
   }
 
 }
